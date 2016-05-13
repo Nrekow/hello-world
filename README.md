@@ -9,4 +9,6 @@ Just another repository!
 
 // Day 1: I've attempted to consult with the Mountain Dew can about it's name origin. He does not know, and recommends that I ask the 2 liter bottle. 
 
+// Day 2: The 2 liter bottle was no more help than the can. He did suggest that I use Google. How does the 2 liter bottle know what Google is? 
+
 
